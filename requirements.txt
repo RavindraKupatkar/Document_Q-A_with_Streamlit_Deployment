@@ -1,0 +1,18 @@
+# Core Libraries
+streamlit
+python-dotenv
+openai
+
+# Document Processing
+langchain
+langchain-community
+unstructured
+pypdf
+python-csv
+
+# Embedding and Vector Store
+faiss-cpu
+tiktoken
+
+# Optional: for additional document loaders
+# unstructured[local-inference]
